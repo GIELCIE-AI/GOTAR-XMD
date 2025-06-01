@@ -1,4 +1,4 @@
-const {
+gconst {
   default: makeWASocket,
     useMultiFileAuthState,
     DisconnectReason,
@@ -68,7 +68,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('GOTAR~XMD~ON41UaSZ#ES3DboymmP6yLf_xnjvDGsKkSt6eys_GPqjmXxOF4O4 go')
-const sessdata = config.SESSION_ID.replace("GOTAR~XMD~", '');
+const sessdata = config.SESSION_ID.replace("GOTAR~XMD~", 'GOTAR~XMD~ON41UaSZ#ES3DboymmP6yLf_xnjvDGsKkSt6eys_GPqjmXxOF4O4');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
