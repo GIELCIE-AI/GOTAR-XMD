@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "GOTAR~XMD~ON41UaSZ#ES3DboymmP6yLf_xnjvDGsKkSt6eys_GPqjmXxOF4O4",
       "required": true,
       "value": ""
     },  
@@ -77,7 +77,7 @@
     }, 
 
     "AUTO_STATUS_MSG": {
-      "description": "Type custom message on status reply",
+      "description": "Good",
       "required": true,
       "value": "*SEEN YOUR STATUS BY 𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃 🖤*"
    
@@ -86,13 +86,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "YOUR NAME"
+      "value": "Collins"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "509xxxxxx"
+      "value": "256784152706"
 
     }, 
 
